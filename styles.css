@@ -14,3 +14,9 @@ box-shadow: 5px 5px 5px #ccc;
 tr:nth-child(even){
 	background-color: #ccc;
 }
+td{
+	text-align: center;
+	}
+td:nth-child(1){
+	text-align: left;
+}
